@@ -1,0 +1,23 @@
+<app-header></app-header>
+
+<div class="site__content">
+
+  <div class="site__centered">
+
+    <div class="card-list">
+
+      <div class="card"
+           app-card
+           *ngFor="let item of cardsService.getAllCards()"
+           [card]="item"
+      ></div>
+
+    </div>
+
+    <app-goods-info></app-goods-info>
+
+  </div>
+
+</div>
+
+<app-footer></app-footer>

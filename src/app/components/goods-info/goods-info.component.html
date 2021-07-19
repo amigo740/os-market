@@ -1,0 +1,20 @@
+<div class="goods-info">
+  <div class="goods-info__title">
+    Информация о товарах
+  </div>
+  <div class="goods-info__row">
+    <div class="goods-info__cell">Общее кол-во товаров:</div>
+    <div class="goods-info__cell">{{cardsService.getCardsInfo().totalCards}}</div>
+  </div>
+  <div class="goods-info__row">
+    <div class="goods-info__cell">Общаяя цена:</div>
+    <div class="goods-info__cell">{{cardsService.getCardsInfo().totalPrice}}</div>
+  </div>
+  <div class="goods-info__row">
+    <div class="goods-info__cell">Средняя цена:</div>
+    <div class="goods-info__cell">{{cardsService.getCardsInfo().averagePrice}}</div>
+  </div>
+  <div class="goods-info__delete">
+    <button mat-raised-button color="warn" (click)="removeAllCards()">Удалить все товары</button>
+  </div>
+</div>

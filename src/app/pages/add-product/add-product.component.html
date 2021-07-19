@@ -1,0 +1,73 @@
+<app-header></app-header>
+
+<div class="site__content">
+
+  <div class="site__centered">
+
+    <div class="add-product">
+
+      <h1 class="add-product__head">Страница добавления товара</h1>
+
+      <p>Заполните все поля с описанием нового товара</p>
+
+      <form action="#" class="add-product__form" (ngSubmit)="submit()">
+
+        <dl class="add-product__row">
+
+          <div class="add-product__cell">Название товара</div>
+
+          <div class="add-product__cell">
+            <textarea name="title"
+                      class="add-product__textarea"
+                      [(ngModel)]="title"
+            ></textarea>
+          </div>
+
+        </dl>
+
+        <dl class="add-product__row">
+
+          <div class="add-product__cell">
+            Описание
+          </div>
+
+          <div class="add-product__cell">
+            <textarea name="description"
+                      class="add-product__textarea"
+                      [(ngModel)]="description"
+            ></textarea>
+          </div>
+
+        </dl>
+
+        <dl class="add-product__row">
+
+          <div class="add-product__cell">
+            Цена
+          </div>
+
+          <div class="add-product__cell">
+            <input name="price"
+                   type="text"
+                   class="add-product__input"
+                   (keypress)="keyPress($event)"
+                   [(ngModel)]="price">
+          </div>
+
+        </dl>
+
+        <div class="add-product__submit">
+          <button type="submit" mat-raised-button color="primary" [disabled]="isDisabled">Добавить страницу</button>
+        </div>
+
+      </form>
+
+    </div>
+
+    <app-goods-info></app-goods-info>
+
+  </div>
+
+</div>
+
+<app-footer></app-footer>

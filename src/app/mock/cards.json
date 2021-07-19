@@ -1,0 +1,149 @@
+[
+  {
+    "id": "1",
+    "image": "./assets/pic/1.jpeg",
+    "title": " Мобильный телефон Samsung Galaxy M32 6/128GB Black (SM-M325FZKGSEK) ",
+    "shortText": "Экран (6.1\", IPS (Liquid Retina HD), 1792x828)/ Apple A13 Bionic/ основная двойная камера: 12 Мп + 12 Мп, фронтальная камера: 12 Мп/ RAM 4 ГБ/ 64 ГБ встроенной памяти/ 3G/ LTE/ GPS/ ГЛОНАСС/ Nano-SIM/ iOS 13 / 3046 мА*ч",
+    "price": "19 999.57"
+  },
+  {
+    "id": "2",
+    "image": "./assets/pic/2.jpeg",
+    "title": " Мобильный телефон Samsung Galaxy A11 2/32GB Red (SM-A115FZRNSEK) ",
+    "shortText": "Экран (6.4\", PLS, 1560x720)/ Qualcomm Snapdragon 450 (8 x 1.8 ГГц)/ тройная основная камера: 13 Мп + 5 Мп + 2 Мп, фронтальная камера: 8 Мп/ RAM 2 ГБ/ 32 ГБ встроенной памяти + microSD (до 512 ГБ)/ 3G/ LTE/ GPS/ ГЛОНАСС/ BDS/ поддержка 2х SIM-карт (Nano-SIM)/ Android 10.0 (Q)/ 4000 мА*ч",
+    "price": "3 099.76"
+  },
+  {
+    "id": "3",
+    "image": "./assets/pic/3.jpeg",
+    "title": " Мобильный телефон Samsung Galaxy A51 6/128GB Blue (SM-A515FZBWSEK) ",
+    "shortText": "Экран (6.5\", Super AMOLED, 2400x1080)/ Samsung Exynos 9611 (2.3 ГГц + 1.7 ГГц)/ основная квадро-камера: 48 Мп + 12 Мп + 5 Мп + 5 Мп, фронтальная 32 Мп/ RAM 6 ГБ/ 128 ГБ встроенной памяти + microSD (до 512 ГБ)/ 3G/ LTE/ GPS/ поддержка 2х SIM-карт (Nano-SIM)/ Android 10.0 (Q)/ 4000 мА*ч",
+    "price": "7 599"
+  },
+  {
+    "id": "4",
+    "image": "./assets/pic/4.jpeg",
+    "title": " Мобильный телефон Poco X3 Pro 6/128GB Frost Blue (774252) ",
+    "shortText": "Экран (6.67\", LCD, 2400x1080) / Qualcomm Snapdragon 860 (2.96 ГГц) / основная квадро-камера: 48 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальная 20 Мп / RAM 6 ГБ / 128 ГБ встроенной памяти + microSD (до 1 ТБ) / 3G / LTE / GPS / поддержка 2х СИМ-карт (Nano-SIM) / Android 11 / 5160 мА*ч",
+    "price": "6 999"
+  },
+  {
+    "id": "5",
+    "image": "./assets/pic/5.jpeg",
+    "title": " Мобильный телефон Apple iPhone 11 64GB Black Slim Box (MHDA3) Официальная гарантия ",
+    "shortText": "Экран (6.1\", IPS (Liquid Retina HD), 1792x828)/ Apple A13 Bionic/ основная двойная камера: 12 Мп + 12 Мп, фронтальная камера: 12 Мп/ RAM 4 ГБ/ 64 ГБ встроенной памяти/ 3G/ LTE/ GPS/ ГЛОНАСС/ Nano-SIM/ iOS 13 / 3046 мА*ч",
+    "price": "19 999"
+  },
+  {
+    "id": "6",
+    "image": "./assets/pic/1.jpeg",
+    "title": " Мобильный телефон Xiaomi Redmi Note 9 4/128GB Midnight Grey ",
+    "shortText": "Экран (6.53\", IPS, 2340x1080) / MediaTek Helio G85 (2.0 ГГц) / основная квадро-камера: 48 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальная камера: 13 Мп / RAM 4 ГБ / 128 ГБ встроенной памяти + microSD / 3G / LTE / GPS / поддержка 2х SIM-карт (Nano-SIM) / Android 10 / 5020 мА*ч",
+    "price": "4 999"
+  },
+  {
+    "id": "7",
+    "image": "./assets/pic/2.jpeg",
+    "title": " Мобильный телефон OnePlus Nord N100 4/64GB Midnight Frost (5011101331) ",
+    "shortText": "Экран (6.52\", IPS, 1600x720) / Qualcomm Snapdragon 460 (1.8 ГГц) / тройная основная камера: 13 Мп + 2 Мп + 2 Мп, фронтальная 8 Мп / RAM 4 ГБ / 64 ГБ встроенной памяти + microSD / 3G / LTE / GPS / поддержка 2х SIM-карт (Nano-SIM) / Android 10 / 5000 мА*ч",
+    "price": "3 999"
+  },
+  {
+    "id": "8",
+    "image":  "./assets/pic/3.jpeg",
+    "title": " Мобильный телефон Poco X3 Pro 8/256GB Phantom Black (774254) ",
+    "shortText": "Экран (6.67\", LCD, 2400x1080) / Qualcomm Snapdragon 860 (2.96 ГГц) / основная квадро-камера: 48 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальная 20 Мп / RAM 8 ГБ / 256 ГБ встроенной памяти + microSD (до 1 ТБ) / 3G / LTE / GPS / поддержка 2х СИМ-карт (Nano-SIM) / Android 11 / 5160 мА*ч",
+    "price": "7 999"
+  },
+  {
+    "id": "9",
+    "image":  "./assets/pic/4.jpeg",
+    "title": " Мобильный телефон Samsung Galaxy M12 4/64GB Black (SM-M127FZKVSEK) ",
+    "shortText": "Экран (6.5\", PLS, 1600x720) / Samsung Exynos 850 (2.0 ГГц) / основная квадро-камера: 48 Мп + 5 Мп + 2 Мп + 2 Мп, фронтальная камера: 8 Мп / RAM 4 ГБ / 64 ГБ встроенной памяти + microSD (до 1 ТБ) / 3G / LTE / GPS / поддержка 2х SIM-карт (Nano-SIM) / Android 11 / 5000 мА*ч",
+    "price": "4 999"
+  },
+  {
+    "id": "10",
+    "image":  "./assets/pic/5.jpeg",
+    "title": " Мобильный телефон Samsung Galaxy A02s 3/32GB Black (SM-A025FZKESEK) ",
+    "shortText": "Экран (6.5\", PLS, 1600x720) / Qualcomm Snapdragon 450 (1.8 ГГц) / тройная основная камера: 13 Мп + 2 Мп + 2 Мп, фронтальная 5 Мп / RAM 3 ГБ / 32 ГБ встроенной памяти + microSD (до 1 ТБ) / 3G / LTE / GPS / поддержка 2х SIM-карт (Nano-SIM) / Android 10 / 5000 мА*ч",
+    "price": "3 499"
+  },
+  {
+    "id": "11",
+    "image":  "./assets/pic/1.jpeg",
+    "title": " Мобильный телефон Xiaomi Redmi Note 9 Pro 6/64GB Tropical Green ",
+    "shortText": "Экран (6.67\", IPS, 2400x1080) / Qualcomm Snapdragon 720G (2 x 2.3 ГГц + 6 x 1.8 ГГц) / основная квадро-камера: 64 Мп + 8 Мп + 5 Мп + 2 Мп, фронтальная 16 Мп / RAM 6 ГБ / 64 ГБ встроенной памяти + microSD / 3G / LTE / GPS / поддержка 2х СИМ-карт (Nano-SIM) / Android 10 / 5020 мА*ч",
+    "price": "16 299"
+  },
+  {
+    "id": "22",
+    "image":  "./assets/pic/2.jpeg",
+    "title": " Мобильный телефон Samsung Galaxy A11 2/32GB Red (SM-A115FZRNSEK) v2",
+    "shortText": "Экран (6.4\", PLS, 1560x720)/ Qualcomm Snapdragon 450 (8 x 1.8 ГГц)/ тройная основная камера: 13 Мп + 5 Мп + 2 Мп, фронтальная камера: 8 Мп/ RAM 2 ГБ/ 32 ГБ встроенной памяти + microSD (до 512 ГБ)/ 3G/ LTE/ GPS/ ГЛОНАСС/ BDS/ поддержка 2х SIM-карт (Nano-SIM)/ Android 10.0 (Q)/ 4000 мА*ч",
+    "price": "13 099"
+  },
+  {
+    "id": "23",
+    "image":  "./assets/pic/3.jpeg",
+    "title": " Мобильный телефон Samsung Galaxy A51 6/128GB Blue (SM-A515FZBWSEK) v2",
+    "shortText": "Экран (6.5\", Super AMOLED, 2400x1080)/ Samsung Exynos 9611 (2.3 ГГц + 1.7 ГГц)/ основная квадро-камера: 48 Мп + 12 Мп + 5 Мп + 5 Мп, фронтальная 32 Мп/ RAM 6 ГБ/ 128 ГБ встроенной памяти + microSD (до 512 ГБ)/ 3G/ LTE/ GPS/ поддержка 2х SIM-карт (Nano-SIM)/ Android 10.0 (Q)/ 4000 мА*ч",
+    "price": "17 599"
+  },
+  {
+    "id": "24",
+    "image":  "./assets/pic/4.jpeg",
+    "title": " Мобильный телефон Poco X3 Pro 6/128GB Frost Blue (774252) v2",
+    "shortText": "Экран (6.67\", LCD, 2400x1080) / Qualcomm Snapdragon 860 (2.96 ГГц) / основная квадро-камера: 48 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальная 20 Мп / RAM 6 ГБ / 128 ГБ встроенной памяти + microSD (до 1 ТБ) / 3G / LTE / GPS / поддержка 2х СИМ-карт (Nano-SIM) / Android 11 / 5160 мА*ч",
+    "price": "16 999"
+  },
+  {
+    "id": "25",
+    "image":  "./assets/pic/5.jpeg",
+    "title": " Мобильный телефон Apple iPhone 11 64GB Black Slim Box (MHDA3) Официальная гарантия v2",
+    "shortText": "Экран (6.1\", IPS (Liquid Retina HD), 1792x828)/ Apple A13 Bionic/ основная двойная камера: 12 Мп + 12 Мп, фронтальная камера: 12 Мп/ RAM 4 ГБ/ 64 ГБ встроенной памяти/ 3G/ LTE/ GPS/ ГЛОНАСС/ Nano-SIM/ iOS 13 / 3046 мА*ч",
+    "price": "29 999"
+  },
+  {
+    "id": "26",
+    "image":  "./assets/pic/1.jpeg",
+    "title": " Мобильный телефон Xiaomi Redmi Note 9 4/128GB Midnight Grey v2",
+    "shortText": "Экран (6.53\", IPS, 2340x1080) / MediaTek Helio G85 (2.0 ГГц) / основная квадро-камера: 48 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальная камера: 13 Мп / RAM 4 ГБ / 128 ГБ встроенной памяти + microSD / 3G / LTE / GPS / поддержка 2х SIM-карт (Nano-SIM) / Android 10 / 5020 мА*ч",
+    "price": "5 999"
+  },
+  {
+    "id": "27",
+    "image":  "./assets/pic/2.jpeg",
+    "title": " Мобильный телефон OnePlus Nord N100 4/64GB Midnight Frost (5011101331) v2",
+    "shortText": "Экран (6.52\", IPS, 1600x720) / Qualcomm Snapdragon 460 (1.8 ГГц) / тройная основная камера: 13 Мп + 2 Мп + 2 Мп, фронтальная 8 Мп / RAM 4 ГБ / 64 ГБ встроенной памяти + microSD / 3G / LTE / GPS / поддержка 2х SIM-карт (Nano-SIM) / Android 10 / 5000 мА*ч",
+    "price": "4 999"
+  },
+  {
+    "id": "28",
+    "image":  "./assets/pic/3.jpeg",
+    "title": " Мобильный телефон Poco X3 Pro 8/256GB Phantom Black (774254) v2",
+    "shortText": "Экран (6.67\", LCD, 2400x1080) / Qualcomm Snapdragon 860 (2.96 ГГц) / основная квадро-камера: 48 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальная 20 Мп / RAM 8 ГБ / 256 ГБ встроенной памяти + microSD (до 1 ТБ) / 3G / LTE / GPS / поддержка 2х СИМ-карт (Nano-SIM) / Android 11 / 5160 мА*ч",
+    "price": "6 999"
+  },
+  {
+    "id": "29",
+    "image":  "./assets/pic/4.jpeg",
+    "title": " Мобильный телефон Samsung Galaxy M12 4/64GB Black (SM-M127FZKVSEK) v2",
+    "shortText": "Экран (6.5\", PLS, 1600x720) / Samsung Exynos 850 (2.0 ГГц) / основная квадро-камера: 48 Мп + 5 Мп + 2 Мп + 2 Мп, фронтальная камера: 8 Мп / RAM 4 ГБ / 64 ГБ встроенной памяти + microSD (до 1 ТБ) / 3G / LTE / GPS / поддержка 2х SIM-карт (Nano-SIM) / Android 11 / 5000 мА*ч",
+    "price": "6 999"
+  },
+  {
+    "id": "20",
+    "image":  "./assets/pic/5.jpeg",
+    "title": " Мобильный телефон Samsung Galaxy A02s 3/32GB Black (SM-A025FZKESEK) v2",
+    "shortText": "Экран (6.5\", PLS, 1600x720) / Qualcomm Snapdragon 450 (1.8 ГГц) / тройная основная камера: 13 Мп + 2 Мп + 2 Мп, фронтальная 5 Мп / RAM 3 ГБ / 32 ГБ встроенной памяти + microSD (до 1 ТБ) / 3G / LTE / GPS / поддержка 2х SIM-карт (Nano-SIM) / Android 10 / 5000 мА*ч",
+    "price": "4 499"
+  },
+  {
+    "id": "21",
+    "image":  "./assets/pic/1.jpeg",
+    "title": " Мобильный телефон Xiaomi Redmi Note 9 Pro 6/64GB Tropical Green v2",
+    "shortText": "Экран (6.67\", IPS, 2400x1080) / Qualcomm Snapdragon 720G (2 x 2.3 ГГц + 6 x 1.8 ГГц) / основная квадро-камера: 64 Мп + 8 Мп + 5 Мп + 2 Мп, фронтальная 16 Мп / RAM 6 ГБ / 64 ГБ встроенной памяти + microSD / 3G / LTE / GPS / поддержка 2х СИМ-карт (Nano-SIM) / Android 10 / 5020 мА*ч",
+    "price": "8 299"
+  }
+]

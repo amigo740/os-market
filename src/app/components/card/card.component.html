@@ -1,0 +1,13 @@
+<div class="card__wrap">
+  <a [routerLink]="['/products', card.id]" class="card__inner">
+    <img src="{{card.image || 'assets/img/no-image.png'}}" alt="" class="card__img">
+    <h3 class="card__title">
+      <span class="card__title-inner">{{card.title}}</span>
+    </h3>
+    <div class="card__price">{{card.price}} <span class="card__price-sign">₴</span></div>
+    <div class="card__txt">{{card.shortText}}</div>
+  </a>
+  <div class="card__remove">
+    <button mat-raised-button color="warn" (click)="removeCard(card.id)">Удалить</button>
+  </div>
+</div>

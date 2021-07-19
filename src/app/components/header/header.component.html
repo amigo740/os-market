@@ -1,0 +1,22 @@
+<header class="site__header">
+
+  <div class="site__centered">
+
+    <a [routerLink]="['/']" class="logo">
+      <img src="assets/img/logo.png" width="80" alt="Logo">
+    </a>
+
+    <div class="site__header-btn">
+      <button mat-icon-button color="accent" (click)="isShowedMenu = !isShowedMenu">
+        <mat-icon>menu</mat-icon>
+      </button>
+    </div>
+
+    <nav class="header-menu" [ngClass]="{'opened': isShowedMenu}">
+      <a [routerLink]="['/products']" class="header-menu__item">Каталог</a>
+      <a [routerLink]="['/add-product']" class="header-menu__item">Добавление товара</a>
+    </nav>
+
+  </div>
+
+</header>
