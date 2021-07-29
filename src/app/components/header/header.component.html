@@ -7,15 +7,15 @@
     </a>
 
     <div class="site__header-btn">
-      <button mat-icon-button color="accent" (click)="isShowedMenu = !isShowedMenu">
+      <button mat-icon-button color="accent" [matMenuTriggerFor]="menu">
         <mat-icon>menu</mat-icon>
       </button>
     </div>
 
-    <nav class="header-menu" [ngClass]="{'opened': isShowedMenu}">
+    <mat-menu #menu="matMenu" yPosition="above" xPosition="before" class="header-menu">
       <a [routerLink]="['/products']" class="header-menu__item">Каталог</a>
       <a [routerLink]="['/add-product']" class="header-menu__item">Добавление товара</a>
-    </nav>
+    </mat-menu>
 
   </div>
 

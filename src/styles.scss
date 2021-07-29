@@ -103,23 +103,10 @@ input[type="search"]::-webkit-search-cancel-button {
 
 /* ------------ header-menu ------------ */
 .header-menu {
-  position: absolute;
-  z-index: 3;
-  top: 90px;
-  right: 15px;
-  width: 200px;
-  overflow-y: auto;
-  text-align: left;
-  background: #fff;
-  opacity: 0;
-  visibility: hidden;
-  border: 1px solid #333;
-  -webkit-transition: opacity 0.5s ease;
-  transition: opacity 0.5s ease;
+  margin-top: 28px;
 }
-.header-menu.opened {
-  opacity: 1;
-  visibility: visible;
+.header-menu .mat-menu-content:not(:empty) {
+  padding: 0;
 }
 .header-menu__item {
   display: block;
@@ -411,6 +398,16 @@ input[type="search"]::-webkit-search-cancel-button {
 }
 
 @media screen and (min-width: 1024px) {
+
+  /* ------------ header-menu ------------ */
+  .header-menu__item {
+    -webkit-transition: color 0.3s ease;
+    transition: color 0.3s ease;
+  }
+  .header-menu__item:hover {
+    color: #f05155;
+  }
+  /* ------------ /header-menu ------------ */
 
   /* ------------ card-list ------------ */
   .card-list .card {

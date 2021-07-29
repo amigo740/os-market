@@ -1,73 +1,61 @@
-<app-header></app-header>
+<div class="add-product">
 
-<div class="site__content">
+  <h1 class="add-product__head">Страница добавления товара</h1>
 
-  <div class="site__centered">
+  <p>Заполните все поля с описанием нового товара</p>
 
-    <div class="add-product">
+  <form action="#" class="add-product__form" (ngSubmit)="submit()">
 
-      <h1 class="add-product__head">Страница добавления товара</h1>
+    <dl class="add-product__row">
 
-      <p>Заполните все поля с описанием нового товара</p>
+      <div class="add-product__cell">Название товара</div>
 
-      <form action="#" class="add-product__form" (ngSubmit)="submit()">
-
-        <dl class="add-product__row">
-
-          <div class="add-product__cell">Название товара</div>
-
-          <div class="add-product__cell">
+      <div class="add-product__cell">
             <textarea name="title"
                       class="add-product__textarea"
                       [(ngModel)]="title"
             ></textarea>
-          </div>
+      </div>
 
-        </dl>
+    </dl>
 
-        <dl class="add-product__row">
+    <dl class="add-product__row">
 
-          <div class="add-product__cell">
-            Описание
-          </div>
+      <div class="add-product__cell">
+        Описание
+      </div>
 
-          <div class="add-product__cell">
+      <div class="add-product__cell">
             <textarea name="description"
                       class="add-product__textarea"
                       [(ngModel)]="description"
             ></textarea>
-          </div>
+      </div>
 
-        </dl>
+    </dl>
 
-        <dl class="add-product__row">
+    <dl class="add-product__row">
 
-          <div class="add-product__cell">
-            Цена
-          </div>
+      <div class="add-product__cell">
+        Цена
+      </div>
 
-          <div class="add-product__cell">
-            <input name="price"
-                   type="text"
-                   class="add-product__input"
-                   (keypress)="keyPress($event)"
-                   [(ngModel)]="price">
-          </div>
+      <div class="add-product__cell">
+        <input name="price"
+               type="text"
+               class="add-product__input"
+               (keypress)="keyPress($event)"
+               [(ngModel)]="price">
+      </div>
 
-        </dl>
+    </dl>
 
-        <div class="add-product__submit">
-          <button type="submit" mat-raised-button color="primary" [disabled]="isDisabled">Добавить страницу</button>
-        </div>
-
-      </form>
-
+    <div class="add-product__submit">
+      <button type="submit" mat-raised-button color="primary" [disabled]="isDisabled">Добавить страницу</button>
     </div>
 
-    <app-goods-info></app-goods-info>
-
-  </div>
+  </form>
 
 </div>
 
-<app-footer></app-footer>
+<app-goods-info></app-goods-info>
