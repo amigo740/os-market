@@ -15,7 +15,7 @@ export class CardComponent {
     private cardsService: CardsService
   ) {}
 
-  removeCard(id: any) {
+  removeCard(id: string) {
     this.cardsService.removeCard(id);
   }
 }
